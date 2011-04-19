@@ -1,7 +1,5 @@
 #!/usr/bin/python
-# Filename: macgen.py
-# Usage: It's intended to generate MAC addresses for virtualized
-#        systems that created by Xen, OpenVZ, Vserver etc.
+# Filename: mac_gen.py
 
 import random
 
